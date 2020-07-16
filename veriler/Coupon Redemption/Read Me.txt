@@ -1,0 +1,7 @@
+Bir kredi kartı firmasının müşterilenine yaptıkları 2 farklı kupon türünden oluşan 
+21/10/13 tarihi ile 16/09/2013 tarihi arasındaki yaptıkları kampanyaları gösterir.Ek olarak
+kullancıların demografik verilerini de göstermektedir.
+Kullanıcların bu kopunlar ile etkileşimlerini de içermektedir.
+train.csv kullanıcılara 18 farklı kampanyadan oluşturulmuş kuponların müşterilere tekliflerini ve etkileşimlerini 
+içermektedir
+link: https://www.kaggle.com/bharath901/amexpert-2019?select=campaign_data.csv

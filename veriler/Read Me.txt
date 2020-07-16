@@ -1,0 +1,24 @@
+kullanılabilir ve amaca yönelik 3 adet veri seti buldum. Bunların içerikleriyle ilgili bilgileri
+dosyaların içerisinde verileri ile beraber bulabilirsiniz.
+
+Ek olarak daha sonrasında işe yarayabilecek verilerde şunlar olabilir:
+-----Kupon-kullanımı-redemption ? https://www.kaggle.com/bharath901/amexpert-2019
+-----Kickstarter Campaigns - https://www.kaggle.com/yashkantharia/kickstarter-campaigns
+-----tpsgc - https://open.canada.ca/data/en/dataset/f5c8a5a0-354d-455a-99ab-8276aa38032e
+-----bank_marketing - https://www.kaggle.com/volodymyrgavrysh/bank-marketing-campaigns-dataset
+-----starbucks karlı tanıtım stratejisi - https://towardsdatascience.com/implementing-a-profitable-promotional-strategy-for-starbucks-with-machine-learning-part-1-2f25ec9ae00c
+-----US supermarket - https://www.kaggle.com/sindraanthony9985/marketing-data-for-a-supermarket-in-united-states?
+-----Kupon kullanımı2:https://www.kaggle.com/vasudeva009/coupon-redemption-smote-feature-selection?select=customer_transaction_data.csv
+
+
+-----Hindistan taze meyve - https://www.kaggle.com/yashmor31/customer-feedback-on-delivering-fresh-vegetables
+-----rocketReailt - https://www.kaggle.com/retailrocket/ecommerce-dataset?select=category_tree.csv // kullanıcı hareketleri için yararlı olabilir
+-----BooRating - https://www.kaggle.com/sahilkirpekar/goodreads10k-dataset-cleaned?select=Books.csv
+
+-----MBTI personalities - https://www.kaggle.com/datasnaek/mbti-type
+-----marketing campaign - https://www.kaggle.com/rodsaldanha/arketing-campaign
+-----c2c fashion store - https://www.kaggle.com/jmmvutu/ecommerce-users-of-a-french-c2c-fashion-store
+-----retail data analytics - https://www.kaggle.com/manjeetsingh/retaildataset
+-----customer retention - https://www.kaggle.com/davinwijaya/customer-retention
+-----personal loan modeling - https://www.kaggle.com/teertha/personal-loan-modeling // kullanıcının demografik özelliklerini çıkartmak için kullanılabilir gibi
+-----retail transaction data - https://www.kaggle.com/regivm/retailtransactiondata // kullanıcların etkileşimleri için kullanılabilir

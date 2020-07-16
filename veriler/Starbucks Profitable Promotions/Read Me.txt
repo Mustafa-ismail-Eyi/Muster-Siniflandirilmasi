@@ -1,0 +1,9 @@
+Starbucks'ın Udacity öğrencileri için oluşturuğu bir veriseti.
+Kampanya porfolosu: nasıl ulaştırıldığı zorluğu, ödülü, ve kampanya türünü gösterir
+Kullanıcı profili: Kullanıların yaşını, id'sini, ne zamandan beri üye olduğunu ve income(?) gösterir
+işlemler(transcations): kullanıcının kampanyalar ile girdiği etkileşimleri gösterir
+
+Dosyalar JSON formatında olduğundan
+çok hızlı bir bakış için pandas ile okuma işlemleri gerçekleştirdim
+
+link: https://www.kaggle.com/teertha/personal-loan-modeling
