@@ -1,7 +1,17 @@
-Bir kredi kartı firmasının müşterilenine yaptıkları 2 farklı kupon türünden oluşan 
-21/10/13 tarihi ile 16/09/2013 tarihi arasındaki yaptıkları kampanyaları gösterir.Ek olarak
+Bir perakende firmasının, kredi kartı firmasından yardım alarak müşterilenine yaptıkları 2 farklı kampanya türünden oluşan 
+21/10/13 tarihi ile 16/09/2013 tarihi arasındaki yaptıkları 28 kampanyayı gösterir.
+train.csv:
+Ek olarak bu 28 kampanyalarda 18 adet kupon kullanılarak 760 müşteri tarafından oluşturduğu 78000 etkileşimi dahilinde bulundurur.
 kullancıların demografik verilerini de göstermektedir.
-Kullanıcların bu kopunlar ile etkileşimlerini de içermektedir.
-train.csv kullanıcılara 18 farklı kampanyadan oluşturulmuş kuponların müşterilere tekliflerini ve etkileşimlerini 
-içermektedir
-link: https://www.kaggle.com/bharath901/amexpert-2019?select=campaign_data.csv
+Kullanıcların bu kopunlar ile etkileşimlerini içermektedir.
+
+id	Unique id for coupon customer impression
+campaign_id	Unique id for a discount campaign
+coupon_id	Unique id for a discount coupon
+customer_id	Unique id for a customer
+redemption_status	(target) (0 - Coupon not redeemed, 1 - Coupon redeemed)
+
+
+
+
+link: https://www.kaggle.com/bharath901/amexpert-2019
