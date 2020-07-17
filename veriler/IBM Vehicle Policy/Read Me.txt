@@ -1,0 +1,34 @@
+Watson Analytics kullanırlarak üretilmiş bir veridir
+İçerisinde bulunan 9134 müşteri ile oluşturulmuş veridir
+Bu veri seti sigorta poliçeleri ilgili sunulmuş teklif/kampanyaların müşteriler tarafından kullanılıp kullanılmadığını,
+poliçe, poliçe tipleri, araç tipi, araç kullanım amacı ve müşteri demografik ve daha birçok bilgileri içeren
+24 sütunlu bir verisetidir.
+
+Customer: customer unique value                         object
+State: Amerika eyaletleri                             object
+Customer Lifetime Value:          float64
+Response: Müşterilerin tekliflere onayı OK ise Yes, değilse No                          object
+Coverage: Poliçe kapsamı  Basic, Extended, Premium                       object
+Education: Müşteri eğitim durumu                         object
+Effective To Date: Kampanyanın geçerlilik tarihleri(gg.aa.yyyy) ilk gün:1/1/11 son gün:2/9/11                object
+EmploymentStatus: İşsizlik durumu                  object
+Gender:Cinsiyet                            object
+Income:Gelir                             int64
+Location Code: Posta kodu                     object
+Marital Status: Medeni Hali                    object
+Monthly Premium Auto               int64
+Months Since Last Claim: Son talepten beri olan aylar            int64
+Months Since Policy Inception: Poliçe başlangıcından bu yana geçen aylar      int64
+Number of Open Complaints:Müşterinin şikayet sayısı          int64
+Number of Policies: Kullanıcıların sahip oldukları poliçeler                 int64
+Policy Type: Poliçe tipi Corporate Auto, Personal Auto, Special Auto                 object
+Policy: 'Corporate L3', 'Personal L3', 'Corporate L2', 'Personal L1',
+       'Special L2', 'Corporate L1', 'Personal L2', 'Special L1',
+       'Special L3'                            object
+Renew Offer Type: Offer1, Offer3, Offer2, Offer4                  object
+Sales Channel: Müşteriye ulaşmak için kullanılan kanallar Agent, Call Center, Web, Branch                    object
+Total Claim Amount               float64
+Vehicle Class: araç sınıfı, Kapı sayılarına, lükslük, sportif olarak ayrılıyor                   object
+Vehicle Size: Small, Medsize, Large olarak ayrılıyor
+
+link: https://www.kaggle.com/pankajjsh06/ibm-watson-marketing-customer-value-data

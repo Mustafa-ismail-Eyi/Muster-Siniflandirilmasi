@@ -1,0 +1,16 @@
+6400 müşteri girdisiyle oluşturulmuş bir pazarlama promosyon kampanya verisidir.
+Müşterinin demografik verisi ile ilgili fazla bilgi olmasa dahi, kampanya tanıtım yolları, kampanya tipleri,
+kampanya kullanımları, kampanyanın müşteriye ulaşıp ulaşmadığı hakkında bizlere bilgi sunmaktadır.
+9 sütundan oluşan bu veri şunları içermektedir
+
+recency: 1-12 arasında integer değer alır. Müşterinin yaptığı en son alışverişten sonraki
+alış veriş yapmadığı ayların sayısı tutulmuştur.
+history: geçmiş harcamaların toplamı
+channel: müşteriye kampanyayı tanıtmak için kullanılan araçlar, Phone, Web, Multichannel
+offer: Müşteriye teklif edilen kampanya türleri şunlardır Discount, Buy one Get One(BOGO), No offer
+used_discount: Discount teklifinin kullanıldığını 1 ile ifade eder, değilse 0
+used_bogo = BOGO teklifinin kullanıldığını 1 ile ifade eder, değilse 0
+is_referral: tanımlanmış olan channel'lardan herhangi birisiyle müşteriye ulaşılıp ulaşılmadığını gösteriyor
+conversion: müşterinin satın alıp almadığını gösteriyor
+
+link: https://www.kaggle.com/davinwijaya/customer-retention
