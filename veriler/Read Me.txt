@@ -22,3 +22,4 @@ Ek olarak daha sonrasında işe yarayabilecek verilerde şunlar olabilir:
 -----customer retention - https://www.kaggle.com/davinwijaya/customer-retention
 -----personal loan modeling - https://www.kaggle.com/teertha/personal-loan-modeling // kullanıcının demografik özelliklerini çıkartmak için kullanılabilir gibi
 -----retail transaction data - https://www.kaggle.com/regivm/retailtransactiondata // kullanıcların etkileşimleri için kullanılabilir
+-----IBM Car Policy Campaign: https://www.kaggle.com/pankajjsh06/ibm-watson-marketing-customer-value-data
