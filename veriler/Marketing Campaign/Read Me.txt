@@ -1,4 +1,4 @@
-Kullanıcılaın demografik bilgileri beraber bir market mağazasından hangi kategoriden alış veriş taptıklarını tutulmuş bir veri seti.
+Kullanıcılaın demografik bilgileri beraber bir market mağazasından müşterilerin hangi kategoriden alış veriş taptıklarını tutulmuş bir veri seti.
 Bunlara ek olarak 5 farklı kampanyaya katılıp katılmadıklarını, hangi yolla katıldıklarını gösteren
 2240 satırlı 26 sütunlu veri setidir
 

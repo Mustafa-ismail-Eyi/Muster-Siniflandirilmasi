@@ -6,7 +6,6 @@ Kullanıcı profili: Kullanıların yaşını, id'sini, ne zamandan beri üye ol
 işlemler(transcript): kullanıcının kampanyalar ile girdiği etkileşimleri gösterir
 
 Dosyalar JSON formatında olduğundan
-çok hızlı bir bakış için pandas ile okuma işlemleri gerçekleştirdim
 
 portfolio.json içerikleri:
 id (string) - offer id

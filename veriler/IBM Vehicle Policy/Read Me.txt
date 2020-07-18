@@ -7,20 +7,24 @@ poliçe, poliçe tipleri, araç tipi, araç kullanım amacı ve müşteri demogr
 Customer: customer unique value                         object
 State: Amerika eyaletleri                             object
 Customer Lifetime Value:          float64
-Response: Müşterilerin tekliflere onayı OK ise Yes, değilse No                          object
-Coverage: Poliçe kapsamı  Basic, Extended, Premium                       object
+
 Education: Müşteri eğitim durumu                         object
 Effective To Date: Kampanyanın geçerlilik tarihleri(gg.aa.yyyy) ilk gün:1/1/11 son gün:2/9/11                object
 EmploymentStatus: İşsizlik durumu                  object
-Gender:Cinsiyet                            object
-Income:Gelir                             int64
+Gender:Cinsiyet 
+                           object
+Income: Gelir                             int64
 Location Code: Posta kodu                     object
 Marital Status: Medeni Hali                    object
-Monthly Premium Auto               int64
+Monthly Premium Auto:               int64
 Months Since Last Claim: Son talepten beri olan aylar            int64
 Months Since Policy Inception: Poliçe başlangıcından bu yana geçen aylar      int64
-Number of Open Complaints:Müşterinin şikayet sayısı          int64
+Number of Open Complaints: Müşterinin şikayet sayısı          int64
 Number of Policies: Kullanıcıların sahip oldukları poliçeler                 int64
+
+
+Response: Müşterilerin tekliflere onayı OK ise Yes, değilse No                          object
+Coverage: Poliçe kapsamı  Basic, Extended, Premium                       object
 Policy Type: Poliçe tipi Corporate Auto, Personal Auto, Special Auto                 object
 Policy: 'Corporate L3', 'Personal L3', 'Corporate L2', 'Personal L1',
        'Special L2', 'Corporate L1', 'Personal L2', 'Special L1',
