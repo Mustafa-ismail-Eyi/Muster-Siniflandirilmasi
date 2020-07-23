@@ -26,3 +26,4 @@ Ek olarak daha sonrasında işe yarayabilecek verilerde şunlar olabilir:
 https://www.kaggle.com/duonghoanvu1/marketing-campaign-fast-food
 https://www.kaggle.com/gatunnopvp/bank-marketing-campaigh-dataset
 https://archive.ics.uci.edu/ml/datasets/KASANDR#
+https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
