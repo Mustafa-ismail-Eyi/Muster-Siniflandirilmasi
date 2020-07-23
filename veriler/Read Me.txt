@@ -1,5 +1,26 @@
-kullanılabilir ve amaca yönelik 3 adet veri seti buldum. Bunların içerikleriyle ilgili bilgileri
-dosyaların içerisinde verileri ile beraber bulabilirsiniz.
+Aynı dizindeki klasörlerin isimleri
+Haftalara göre eklenen veriler:
+
+Hafta 1 başlangıç tarihi 10.07.2020:
+-Starbucks Profitable Promotions
+-IBM Vehicle Policy
+-Marketing Campaign
+-Marketing Promotion Campaign
+-Coupon Redemption
+
+Hafta 2 başlangıç tarihi: 17.07.2020:
+-Hybrid veri 1, el ile iki ver birleştirilerek oluşturuldu
+-Bank Marketing Campaign
+-Retail Dataset V3
+
+
+
+
+
+
+
+
+
 
 Ek olarak daha sonrasında işe yarayabilecek verilerde şunlar olabilir:
 -----Kupon-kullanımı-redemption ? https://www.kaggle.com/bharath901/amexpert-2019
